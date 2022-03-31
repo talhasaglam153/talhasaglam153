@@ -5,7 +5,7 @@
 ## Android | Kotlin Developer
 
 ### 
-<font color="yellow" >I'm 23 years old. I am a final year computer engineering student at university. I have been developing android application with kotlin. <br> <br>
+<font color="yellow" >I'm 23 years old. I 'm currently a computer engineering senior. I have been developing android application with kotlin. <br> <br>
 I am someone who is open to learning and like to learn new things. If I don't know , I learn it. I like to read the code that someone else wrote</font>
 <br> <br>
 ### <font color="red" >Reach out to me </font>
