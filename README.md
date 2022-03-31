@@ -1,36 +1,31 @@
-<img src = "https://media3.giphy.com/media/DuWNPF952JNyE/giphy.gif?cid=ecf05e47gerpug7k7jrchpqowotlcig5dq4ochvuv5nqvcx9&rid=giphy.gif&ct=g" align="right" width="400" height="400">
-
-### Hi there, I'm Talha :blush:
-
-## Android | Kotlin Developer
-
-### 
-<font color="yellow" >I'm 23 years old. I am a final year computer engineering student at university. I have been developing android application with kotlin. <br> <br>
-I am someone who is open to learning and like to learn new things. If I don't know , I learn it. I like to read the code that someone else wrote</font>
-<br> <br>
-### <font color="red" >Reach out to me </font>
-<br>
-
-[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left"/>][linkedin]&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/292px-Twitter-logo.svg.png"/>][twitter]
-
-<br>
-<br>
-
-### <font color="red" > TECH I USE </font>
-<br>
-<br>
-<img src="https://iskulubu.com/wp-content/uploads/2021/06/kotlin.png" width="40" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="40" height="40">
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40">
-<img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width="40" height="40">&nbsp;&nbsp;
-<img src="https://image.pngaaa.com/343/4169343-middle.png" width="40" height="40">&nbsp; &nbsp;
-<img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="40" height="40">
-
-
-[linkedin]: https://www.linkedin.com/in/mustafatalhasaglam/
-[twitter]: https://twitter.com/Talhasaglam153
-
-
-
-
+  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+  
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+  
+  - 🔭 I’m currently working as a Software Developer in Bengaluru, India
+  - 🌱 I’m currently learning Machine Learning and Big Data
+  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: My name is an anagram of "I Play Data"
+  
+  #### 📫 How to reach me:
+  
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
+  #### 👨🏻‍💻 Languages and Tools <br />
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
